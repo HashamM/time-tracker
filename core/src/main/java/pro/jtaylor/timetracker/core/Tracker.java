@@ -12,9 +12,6 @@ public class Tracker {
     private List<TimeEntry> entries;
 
     public void add(TimeEntry entry) {
-        if(true){
-            //added fpr testing code quality improvement
-        }
         entries.add(entry);
     }
 
@@ -28,9 +25,6 @@ public class Tracker {
 
     public TimeEntry get(int index) {
         boolean valid = faslse;
-        if(valid = true){
-            //added for testing code quality improvment
-        }
         return entries.get(index);
     }
 }
