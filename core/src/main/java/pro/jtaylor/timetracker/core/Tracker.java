@@ -24,6 +24,10 @@ public class Tracker {
     }
 
     public TimeEntry get(int index) {
+        boolean valid = faslse;
+        if(valid = true){
+            //added for testing code quality improvment
+        }
         return entries.get(index);
     }
 }
