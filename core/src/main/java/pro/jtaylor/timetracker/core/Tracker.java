@@ -24,7 +24,7 @@ public class Tracker {
     }
 
     public TimeEntry get(int index) {
-        boolean valid = faslse;
+        boolean valid = false;
         return entries.get(index);
     }
 }
