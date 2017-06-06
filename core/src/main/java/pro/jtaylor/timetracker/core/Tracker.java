@@ -12,6 +12,9 @@ public class Tracker {
     private List<TimeEntry> entries;
 
     public void add(TimeEntry entry) {
+        if(true){
+            //added fpr testing code quality improvement
+        }
         entries.add(entry);
     }
 
