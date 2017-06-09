@@ -13,7 +13,7 @@
 <body>
   <h1>Super Simple Example Web Page</h1>
   <p>
-    Testing Continous Deployment (CD) on jenkins.
+    Testing Continous Deployment (CD) on jenkins. <b>
     This is a very simple example web page on a JSP. 
   </p>
 </body>
